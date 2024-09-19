@@ -6,3 +6,4 @@
   - 配置secret-key
 - 前端
   - 引入VueTurnstile
+  - 配置router meta域和路由守卫
